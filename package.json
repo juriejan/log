@@ -13,8 +13,11 @@
     "url": "https://github.com/juriejan/log-new/issues"
   },
   "homepage": "https://github.com/juriejan/log-new#readme",
-	"engines": {
+  "engines": {
     "node": "11.2.0",
     "npm": "6.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
   }
 }

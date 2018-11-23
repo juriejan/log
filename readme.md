@@ -24,12 +24,14 @@ nvm use
 ### Tools
 
 - [Editor Config](https://editorconfig.org/)
+- [ESLint](https://eslint.org/)
 - [Node Version Manager](https://github.com/creationix/nvm)
 - [Node.js](https://nodejs.org/)
 
 ### Recommended IDE Packages (Atom)
 
 - Editor Config (editorconfig)
+- Javascript Style Checker (linter-eslint)
 
 ### Style Guides
 
