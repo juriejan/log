@@ -1,0 +1,20 @@
+{
+  "name": "log",
+  "version": "0.0.0",
+  "description": "Central logging service for your project.",
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juriejan/log-new.git"
+  },
+  "author": "Jurie-Jan Botha <juriejanbotha@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juriejan/log-new/issues"
+  },
+  "homepage": "https://github.com/juriejan/log-new#readme",
+	"engines": {
+    "node": "11.2.0",
+    "npm": "6.4.1"
+  }
+}
