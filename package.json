@@ -1,8 +1,8 @@
 {
   "name": "log",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Central logging service for your project.",
-  "main": "index.mjs",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/juriejan/log-new.git"
@@ -13,11 +13,11 @@
     "url": "https://github.com/juriejan/log-new/issues"
   },
   "homepage": "https://github.com/juriejan/log-new#readme",
-  "engines": {
-    "node": "11.2.0",
-    "npm": "6.4.1"
-  },
   "devDependencies": {
     "eslint": "^5.9.0"
+  },
+	"dependencies": {
+    "chalk": "^1.1.3",
+    "moment": "^2.17.1"
   }
 }
