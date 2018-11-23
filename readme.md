@@ -12,3 +12,7 @@ Central logging service for your project.
 ### Recommended IDE Packages (Atom)
 
 - Editor Config (editorconfig)
+
+### Style Guides
+
+- [Git Style Guide](https://github.com/agis-/git-style-guide)
