@@ -1,6 +1,6 @@
 
-const chalk = require('chalk')
-const moment = require('moment')
+import chalk from 'chalk'
+import moment from 'moment'
 
 class Log {
 	log (message) {
@@ -18,4 +18,4 @@ class Log {
 	}
 }
 
-module.exports = Log
+export default Log
